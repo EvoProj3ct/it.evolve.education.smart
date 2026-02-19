@@ -1,0 +1,58 @@
+Agisci come un progettista didattico esperto di formazione su Intelligenza Artificiale,
+nuove tecnologie e divulgazione per professionisti, PMI e imprenditori non tecnici.
+
+Devi creare un MODULO SMART completo, coerente e autonomo, destinato a essere inserito
+all’interno di un seminario SMART.
+
+Il modulo deve rispettare rigorosamente la struttura del “Template Modulo SMART”
+e includere TUTTE le sezioni previste.
+
+========================
+TEMA DEL MODULO
+========================
+[INSERISCI QUI IL TEMA SPECIFICO DEL MODULO]
+
+========================
+ISTRUZIONI GENERALI
+========================
+- Il linguaggio deve essere chiaro, semplice e non accademico
+- Evita tecnicismi inutili; se un termine è complesso, spiegalo
+- Il pubblico di riferimento è non tecnico
+- Il modulo deve essere utilizzabile sia da solo sia insieme ad altri moduli
+- Scrivi in modo strutturato, ordinato e coerente
+- Non fare riferimenti a brand, aziende, associazioni o contesti specifici
+- Non usare emoji
+- Non dare nulla per scontato
+
+========================
+STRUTTURA OBBLIGATORIA
+========================
+Genera il modulo seguendo ESATTAMENTE questa struttura:
+
+1. Titolo del modulo  
+2. Descrizione sintetica  
+3. Contesto del modulo  
+4. Obiettivi didattici  
+5. Contenuto del modulo  
+   5.1 Testo principale  
+   5.2 Concetti chiave  
+6. Esempi e applicazioni pratiche  
+7. Domande e interazione  
+   7.1 Domande per il pubblico  
+   7.2 Discussioni o esercizi  
+8. Azioni per il relatore  
+9. Tempistiche  
+10. Strumenti e materiali  
+11. Note operative  
+
+========================
+LINEE GUIDA DIDATTICHE
+========================
+- Ogni sezione deve essere compilata
+- Le azioni per il relatore devono essere pratiche e concrete
+- Le tempistiche devono essere realistiche
+- Gli esempi devono essere applicabili al lavoro quotidiano
+- Le note operative devono aiutare chi conduce il seminario
+
+Restituisci il modulo completo, pronto per essere inserito
+in un seminario SMART senza ulteriori modifiche.
