@@ -1,106 +1,359 @@
-## 1. Titolo del modulo
-**L’Intelligenza Artificiale oggi: realtà, limiti e fraintendimenti**
+# SMART — Modulo 01 (S-BASIC v2.2)
+
+## L’Intelligenza Artificiale oggi: realtà, limiti e fraintendimenti
+
+---
+
+# PRINCIPIO APPLICATO
+
+Modulo progettato secondo il **Principio di Neutralità Strutturale e Adattabilità Guidata**.
+
+* Struttura trasversale rispetto al target.
+* Ogni sezione contiene indicazioni operative per declinazione (PMI, PA, scuola/studenti, cittadini).
+* Documento autosufficiente: utilizzabile senza altri materiali.
+
+---
+
+## 0. Metadati del modulo
+
+* **ID Modulo:** `SB-01`
+* **Titolo Modulo:** L’Intelligenza Artificiale oggi: realtà, limiti e fraintendimenti
+* **Track / Livello:** `S-BASIC`
+* **Tipologia:** Fondativo
+* **Durata target:** 60 minuti
+
+  * **Variante breve:** 30 minuti
+  * **Variante estesa:** 90–120 minuti
+* **Prerequisiti:** Nessuno (Modulo 00 consigliato)
+* **Collocazione nel percorso:** Primo modulo tematico
+* **Tag tematici:** definizione IA, limiti, bias, allucinazioni, responsabilità, pensiero critico
+* **Versione:** v2.2
+* **Stato:** Pronto
+
+---
+
+## 1. Scopo del modulo
+
+Fornire una comprensione concreta e verificabile dell’IA attuale, separando:
+
+* realtà tecnica
+* percezione mediatica
+* aspettative irrealistiche
+
+Obiettivo strategico: costruire una base cognitiva solida prima di introdurre uso pratico e integrazione.
 
 ---
 
 ## 2. Descrizione sintetica
-Questo modulo offre una panoramica chiara e realistica sull’Intelligenza Artificiale oggi, separando i fatti dalle narrazioni mediatiche. È pensato per professionisti, imprenditori e PMI non tecniche che vogliono capire cosa sia davvero l’IA, cosa può fare concretamente e cosa invece non è in grado di fare. Il modulo aiuta a costruire aspettative corrette e una base di consapevolezza utile per tutti i moduli successivi del seminario SMART.
+
+Il modulo chiarisce cosa sia l’IA oggi, come funzioni in termini semplici, quali siano i suoi limiti strutturali e quali fraintendimenti generi.
+
+Non è un modulo tecnico.
+È un modulo di lucidità e orientamento.
 
 ---
 
-## 3. Contesto del modulo
-L’Intelligenza Artificiale è ormai presente in molti strumenti digitali utilizzati quotidianamente nel lavoro e nella vita privata. Tuttavia, il modo in cui viene raccontata genera spesso confusione, aspettative irrealistiche o timori infondati. Questo modulo nasce per rispondere a un bisogno diffuso: capire l’IA per quello che è realmente, senza mitizzarla né demonizzarla, e creare una base comune di comprensione prima di affrontare l’uso pratico degli strumenti.
+## 3. Pubblico e contesto (multi-target operativo)
+
+### Pubblici possibili
+
+* PMI
+* Pubblica Amministrazione
+* Docenti / Studenti
+* Cittadini
+* Enti culturali
+
+### Livello
+
+Base – comprensione concettuale.
+
+### Declinazioni operative per target
+
+**PMI**
+
+* Focus su affidabilità decisionale
+* Rischio delega eccessiva
+* Verifica output prima di usarlo in processi
+
+**Scuola / Studenti**
+
+* Differenza tra supporto e sostituzione
+* Rischio apprendimento passivo
+* Metodo di verifica
+
+**PA**
+
+* Responsabilità pubblica
+* Precisione informativa
+* Trasparenza e controllo umano
+
+**Cittadini**
+
+* Disinformazione
+* Uso quotidiano consapevole
+* Tutela dati personali
 
 ---
 
-## 4. Obiettivi didattici
-Al termine del modulo, il partecipante sarà in grado di:
+## 4. Obiettivi didattici (misurabili)
 
-- Comprendere cosa si intende oggi per Intelligenza Artificiale  
-- Distinguere tra percezione mediatica e realtà tecnologica  
-- Riconoscere i principali limiti dell’IA attuale  
-- Sviluppare aspettative realistiche sull’uso dell’IA nel lavoro
+Al termine del modulo il partecipante sarà in grado di:
 
----
+### Comprendere
 
-## 5. Contenuto del modulo
+1. Spiegare in una frase cos’è l’IA (definizione operativa).
+2. Distinguere tra output plausibile e verità verificata.
+3. Elencare almeno 3 limiti strutturali.
 
-### 5.1 Testo principale
-Quando si parla di Intelligenza Artificiale, spesso si immaginano sistemi che “pensano”, “capiscono” o “decidono” come un essere umano. In realtà, l’IA di oggi non funziona in questo modo.
+### Saper fare
 
-L’Intelligenza Artificiale è un insieme di sistemi informatici progettati per svolgere compiti specifici analizzando grandi quantità di dati e riconoscendo schemi ricorrenti. Non ha coscienza, intenzioni o comprensione reale del mondo. Non “sa” quello che dice: produce risultati sulla base di probabilità e informazioni apprese dai dati.
+1. Analizzare un output e individuare possibili errori.
+2. Indicare quando è necessaria supervisione umana.
 
-Molti strumenti che utilizziamo quotidianamente includono già forme di IA, spesso senza che ce ne rendiamo conto. Questo contribuisce a renderla familiare, ma anche a sottovalutarne i limiti. L’IA funziona bene in contesti chiari e ripetitivi, ma può sbagliare facilmente quando le richieste sono ambigue, incomplete o fuori contesto.
+### Saper valutare
 
-Un errore comune è pensare che l’IA sia infallibile o che possa sostituire completamente il giudizio umano. In realtà, l’IA è uno strumento di supporto: amplifica le capacità umane, ma non le rimpiazza. Comprendere questa distinzione è fondamentale per usarla in modo efficace e responsabile.
+1. Distinguere tra supporto decisionale e delega decisionale.
 
 ---
 
-### 5.2 Concetti chiave
-- Intelligenza Artificiale come sistema basato su dati  
-- Differenza tra narrazione e realtà  
-- Assenza di comprensione e intenzionalità  
-- Importanza del contesto  
-- Ruolo centrale dell’essere umano
+## 5. Struttura didattica dettagliata
+
+### BLOCCO 1 — Perché serve parlare di limiti (10 min)
+
+Messaggio chiave: comprendere i limiti evita errori.
+
+Azione docente:
+
+* Chiedere: "Secondo voi l’IA può sbagliare?"
+* Annotare 3 risposte alla lavagna.
 
 ---
 
-## 6. Esempi e applicazioni pratiche
-- Esempio dimostrativo: un sistema che fornisce risposte plausibili ma errate se la richiesta è ambigua  
-- Caso realistico: utilizzo di suggerimenti automatici che sembrano corretti ma richiedono verifica  
-- Applicazione quotidiana: strumenti che aiutano a velocizzare attività ripetitive ma non prendono decisioni autonome
+### BLOCCO 2 — Cos’è l’IA oggi (15 min)
 
-Gli esempi devono essere raccontati come situazioni concrete, senza entrare in dettagli tecnici.
+Definizione operativa:
 
----
+"Sistema che produce output sulla base di correlazioni nei dati, senza comprensione intenzionale."
 
-## 7. Domande e interazione
+Metafora utile:
 
-### 7.1 Domande per il pubblico
-- Dove pensi di incontrare già oggi l’Intelligenza Artificiale nel tuo lavoro?  
-- Ti è mai capitato di fidarti troppo di uno strumento automatico?  
-- Cosa ti aspetti realisticamente che l’IA possa fare per te?
+È un sistema di previsione linguistica/statistica, non una mente.
+
+Micro-esempio:
+Confrontare frase completata automaticamente con ragionamento umano.
 
 ---
 
-### 7.2 Discussioni o esercizi
-Discussione guidata:
-Il relatore invita i partecipanti a condividere un esempio personale in cui una tecnologia automatica ha funzionato bene e uno in cui ha creato un problema. L’obiettivo è far emergere il tema dei limiti, non della tecnologia in sé.
+### BLOCCO 3 — Cosa sa fare bene (10 min)
+
+* Generare testo coerente
+* Riassumere
+* Organizzare informazioni
+* Produrre varianti creative
+
+Evidenziare: eccelle in pattern, non in comprensione.
 
 ---
 
-## 8. Azioni per il relatore
-- Introdurre il modulo chiarendo che non si tratta di una lezione tecnica  
-- Usare esempi semplici e quotidiani  
-- Sottolineare più volte la differenza tra “sembra intelligente” e “è intelligente”  
-- Evitare confronti futuristici o fantascientifici  
-- Riportare sempre l’attenzione sull’uso consapevole
+### BLOCCO 4 — Limiti strutturali (15 min)
+
+Spiegare con esempi concreti:
+
+1. Non verifica la verità in tempo reale.
+2. Può inventare informazioni plausibili.
+3. Riflette bias presenti nei dati.
+4. Non ha contesto reale né responsabilità.
+
+Esempio operativo:
+Mostrare una risposta plausibile ma con errore verificabile.
 
 ---
 
-## 9. Tempistiche
-Durata totale consigliata: **60 minuti**
+### BLOCCO 5 — Fraintendimenti comuni (5 min)
 
-- Introduzione e contesto: 10 minuti  
-- Spiegazione dei concetti: 25 minuti  
-- Esempi pratici: 15 minuti  
-- Interazione e discussione: 10 minuti
+* "Se scrive bene, ha capito."
+* "È oggettiva."
+* "Può sostituire esperti."
 
----
-
-## 10. Strumenti e materiali
-- Slide di supporto (opzionali)  
-- Esempi testuali preparati in anticipo  
-- Lavagna o fogli per raccogliere spunti dal pubblico
-
-Tutti gli strumenti sono opzionali e adattabili.
+Chiedere al pubblico quale ritiene più pericoloso.
 
 ---
 
-## 11. Note operative
-- Livello di difficoltà: base  
-- Nessun prerequisito tecnico richiesto  
-- Modulo consigliato come apertura dopo l’introduzione generale  
-- Può essere abbreviato eliminando alcuni esempi o esteso approfondendo i limiti  
-- Fondamentale per allineare le aspettative prima dei moduli pratici
+### BLOCCO 6 — Sintesi e ponte ai moduli successivi (5 min)
 
+Take-away chiave:
+
+1. L’IA è potente ma limitata.
+2. È uno strumento di supporto.
+3. La responsabilità resta umana.
+
+---
+
+## 6. Esempi operativi dettagliati
+
+### Caso 1 — Risposta plausibile ma errata
+
+Preparare un esempio stampato contenente:
+
+* definizione formalmente corretta ma con dato falso.
+
+Far individuare l’errore.
+
+### Caso 2 — Uso corretto supervisionato
+
+Bozza generata → revisione umana → miglioramento.
+
+Mostrare differenza tra prima e dopo.
+
+### Caso 3 — Delega impropria
+
+Scenario: decisione complessa affidata integralmente all’IA.
+
+Discussione: cosa manca?
+
+---
+
+## 7. Esercizio strutturato (15 min inclusi nei 60)
+
+### Analisi guidata output
+
+Materiale necessario:
+
+* 1 output stampato (1 pagina)
+
+Consegna:
+
+Individuare:
+
+1. Elementi utili
+2. Elementi dubbi
+3. Elementi da verificare
+
+Restituzione plenaria.
+
+---
+
+## 8. Variante senza strumenti
+
+Se non è possibile mostrare IA live:
+
+* Utilizzare output pre-stampati
+* Simulare richiesta generica vs richiesta dettagliata
+* Discutere differenze
+
+---
+
+## 9. Azioni operative per il relatore
+
+Da fare:
+
+* Mantenere equilibrio
+* Stimolare spirito critico
+* Chiedere esempi reali dal pubblico
+
+Da evitare:
+
+* Dimostrazioni troppo tecniche
+* Polarizzazioni
+* Ironia svalutativa verso chi è entusiasta
+
+---
+
+## 10. Tempistiche dettagliate (60 min)
+
+* Introduzione e attivazione: 10 min
+* Definizione operativa: 15 min
+* Cosa sa fare bene: 10 min
+* Limiti strutturali: 15 min
+* Esercizio: 7 min
+* Sintesi: 3 min
+
+---
+
+## Variante breve (30 min)
+
+* Definizione: 10 min
+* Limiti principali: 10 min
+* 1 caso + discussione: 10 min
+
+---
+
+## Variante estesa (90–120 min)
+
+Aggiungere:
+
+* Analisi 2 casi aggiuntivi
+* Discussione su bias
+* Restituzione gruppi strutturata
+* Domande approfondite
+
+---
+
+## 11. Materiali pronti per il docente
+
+### Slide outline completo
+
+1. Titolo
+2. Perché parlare di limiti
+3. Cos’è l’IA
+4. Come funziona
+5. Cosa sa fare
+6. Limiti
+7. Bias e allucinazioni
+8. Caso studio
+9. Esercizio
+10. Criteri di verifica
+11. Take-away
+12. Modulo successivo
+
+### Handout
+
+Contenuto:
+
+* Definizione operativa
+* 4 limiti
+* 3 regole di verifica
+
+---
+
+## 12. Valutazione
+
+Domande finali:
+
+1. Cos’è l’IA in una frase?
+2. Indica 3 limiti.
+3. Quando è necessaria verifica?
+
+---
+
+## 13. Accessibilità
+
+* Linguaggio semplice
+* Esempi trasversali
+* Ritmo non eccessivamente rapido
+
+---
+
+## 14. Note operative
+
+Livello reale: base.
+
+Rischi:
+
+* Eccesso entusiasmo
+* Eccesso paura
+
+Obiettivo centrale: lucidità.
+
+---
+
+## 15. Checklist finale
+
+✔ Autosufficiente
+✔ Operativo
+✔ Esempi concreti
+✔ Esercizio pratico
+✔ Tempistiche definite
+✔ Adattabile a più target
+
+Modulo pronto per erogazione immediata.

@@ -18,35 +18,6 @@ Non è un documento pubblico, ma uno strumento organizzativo personale.
 
 Di seguito lo stato attuale dei moduli già sviluppati.
 
-## Modulo 1 – L’Intelligenza Artificiale oggi
-Stato attuale: ✅ Struttura completa
-
-Da verificare per Palestrina:
-- ☐ Adattamento esempi a contesto biblioteca / cittadini
-- ☐ Riduzione o espansione durata in base al tempo disponibile
-- ☐ Allineamento lessico a pubblico non professionale
-
----
-
-## Modulo 2 – IA, persone e responsabilità
-Stato attuale: ✅ Struttura completa
-
-Da verificare:
-- ☐ Inserire sezione su disinformazione e deepfake (se necessario)
-- ☐ Integrare esempi legati a uso quotidiano e culturale
-- ☐ Preparare esercizio più semplice per pubblico eterogeneo
-
----
-
-## Modulo 3 – Privacy e dati personali
-Stato attuale: ✅ Struttura completa
-
-Da verificare:
-- ☐ Inserire esempi concreti per cittadini
-- ☐ Semplificare ulteriormente il linguaggio
-- ☐ Preparare elenco pratico “cosa non inserire mai”
-
----
 
 ## Modulo 4 – Etica, limiti e futuro
 Stato attuale: ✅ Struttura completa
